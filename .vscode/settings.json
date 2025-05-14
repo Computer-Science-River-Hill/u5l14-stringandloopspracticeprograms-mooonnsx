@@ -33,5 +33,6 @@
         "Diceware",
         "arraysize",
         "autofetch"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
